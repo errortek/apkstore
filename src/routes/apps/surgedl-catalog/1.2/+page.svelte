@@ -9,7 +9,7 @@
           <!--
             Note: tabs must be unique. (They cannot === each other.)
           -->
-          <TabBar tabs={['Package information', 'What's New', 'Description']} bind:active>
+          <TabBar tabs={['Package information', "What's New", 'Description']} bind:active>
             {#snippet tab(tab)}
               <!-- Note: the `tab` property is required! -->
               <Tab {tab}>
