@@ -18,7 +18,7 @@
 <Card style="width: 100%; margin: 2em auto;">
   <Content class="mdc-typography--body2">October 24</Content>
 </Card>
-<Card style="width: 100%; margin: 2em auto;">
+<Card style="width: 100%;">
     <Content>
         <div class="element">
             <img src="https://raw.githubusercontent.com/errortek/jpb24/refs/heads/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" height="64" width="64"/>
@@ -47,6 +47,5 @@
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 40%;
     }
 </style>
