@@ -7,7 +7,7 @@
 	import Counter from './Counter.svelte';
 	import welcome from '$lib/images/svelte-welcome.webp';
 	import welcomeFallback from '$lib/images/svelte-welcome.png';
-	import Button from '@smui/button';
+	import Button, { Label } from '@smui/button';
     import Card, { Content } from '@smui/card';
 </script>
 
