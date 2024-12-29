@@ -28,7 +28,7 @@
             <p>by jpb</p>
         </div>
         <div style="float: right;">
-            <Button onclick={() => window.location.href = "https://apkstore.vercel.app/apps/surgedl-catalog/1.2";}>
+            <Button onclick={() => window.location.href = "https://apkstore.vercel.app/apps/surgedl-catalog/1.2"}>
                 <Label>Download</Label>
             </Button>
         </div>
