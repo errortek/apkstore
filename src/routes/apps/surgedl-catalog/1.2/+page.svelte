@@ -40,7 +40,7 @@
                       </div>
               </Content>
             </Paper>
-          {:else if active === 'What's New'}
+          {:else if active === "What's New"}
             <Paper role="tabpanel" variant="unelevated">
               <Content>What's New
                        Update target SDK and compile SDK to 35 (d9ee5ca)
